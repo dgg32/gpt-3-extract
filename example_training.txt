@@ -1,0 +1,8 @@
+#Catalase, oxidase and nitrate reduction are positive. Urease and H2S production are negative. Utilization of D(+)cellobiose, D(−)fructose, D(+)galactose, glucose and lactose is positive. Utilization of adonitol, arabinose, L(−)fucose and xylitol is negative.
+{"catalase": "posititve", "oxidase": "positive", "nitrate reduction": "positive", "urease": "negative", "H2S production": "negative", "D(+)cellobiose utilization": "positive", "D(−)fructose utilization": "positive", "D(+)galactose utilization": "positive", "glucose utilization": "positive", "lactose utilization": "positive",  "adonitol utilization": "negative", "arabinose utilization": "negative", "L(−)fucose utilization": "negative", "xylitol utilization": "negative"}
+
+#Cellulose and chitin are not degraded. Hydrolyses starch, xylan, casein and aesculin. 
+{"cellulose degradation":"negative", "chitin degradation": "negative", "starch hydrolysis": "positive", "xylan hydrolysis":  "positive", "casein hydrolysis": "positive", "aesculin hydrolysis": "positive"}
+
+#Able to degrade d-arabitol, d-aspartic acid, cellobiose, dextrin, d-fructose.
+{"d-arabitol degradation": "positive", "d-aspartic acid degradation": "positive", "cellobiose degradation": "positive", "dextrin degradation": "positive", "d-fructose degradation": "positive"}

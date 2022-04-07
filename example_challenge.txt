@@ -1,0 +1,3 @@
+#Gelatin and aesculin are hydrolysed.
+
+#Aesculin is hydrolysed. Gelatin is not hydrolysed. Indole is not produced.
