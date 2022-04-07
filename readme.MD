@@ -1,6 +1,6 @@
 # pyspark_sam
 
-This repo hosts my code for the article "[Relationship Extraction with GPT-3]()".
+This repo hosts my code for the article "[Relationship Extraction with GPT-3](https://dgg32.medium.com/relationship-extraction-with-gpt-3-bb019dcf41e5)".
 
 
 # Prerequisite
