@@ -1,4 +1,4 @@
-# pyspark_sam
+# gpt-3 extract
 
 This repo hosts my code for the article "[Relationship Extraction with GPT-3](https://dgg32.medium.com/relationship-extraction-with-gpt-3-bb019dcf41e5)".
 
